@@ -17,7 +17,7 @@ $ git clone https://github.com/juwpan/encryption.git
 
 ```
 ```
-$ cd encryption.git
+$ cd encryption
 ```
 
 ### Запуск программы:
