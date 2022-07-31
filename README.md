@@ -13,18 +13,13 @@
 Перейдите в папку, в которую вы хотите скачать исходный код Ruby, и запустите:
 
 ```
-$ git clone https://github.com/juwpan/film_for_the_evening.git
+$ git clone https://github.com/juwpan/encryption.git
 
 ```
 ```
-$ cd film_for_the_evening
+$ cd encryption.git
 ```
 
-### Установка зависимостей
-
-```
-$ bundle install
-```
 ### Запуск программы:
 
 ```
