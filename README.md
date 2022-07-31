@@ -23,6 +23,6 @@ $ cd encryption
 ### Запуск программы:
 
 ```
-$ ruby main.rb
+$ ruby encryption.rb
 ```
 ---
